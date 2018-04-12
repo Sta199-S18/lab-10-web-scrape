@@ -1,0 +1,21 @@
+---
+title: "Lab 10 - Sa cheers to web scraping!"
+author: "INSERT TEAM NAME HERE"
+date: "INSERT TODAY'S DATE HERE"
+output: github_document
+---
+
+### Load packages
+
+```{r load-packages, message=FALSE}
+#load necessary packages
+```
+
+(Add code chunks, exercise headings, and narrative as needed below.)
+
+### Exercise 1
+
+### Exercise 2
+
+...
+
